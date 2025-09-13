@@ -70,6 +70,9 @@ pip install -r requirements.txt
 ## 3️⃣ Run the Streamlit App
 streamlit run streamlit_app/app.py
 
+# Streamlit live demo
+https://ibtidaa-lgckqsmvvvmysbmbtmkblr.streamlit.app/
+
 # Streamlit demo video
 https://drive.google.com/file/d/1IwzwdAiVvbBfDt_GQfpXrpjhZwOX0dcw/view?usp=sharing
 
