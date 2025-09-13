@@ -68,7 +68,7 @@ git clone https://github.com/Shree04-08/Ibtidaa
 pip install -r requirements.txt
 
 ## 3️⃣ Run the Streamlit App
-streamlit run streamlit_app/app.py
+streamlit run app.py
 
 # Streamlit live demo
 https://ibtidaa-lgckqsmvvvmysbmbtmkblr.streamlit.app/
