@@ -6,8 +6,9 @@ World Happiness Index – Data Analytics
 This project was developed as part of the Ibtidaa Internship (AICTE Initiative). The goal of this internship project was to perform data analytics on the World Happiness Index dataset to understand the factors that influence happiness across different countries.
 
 # Objectives:
-### To analyze the World Happiness Report dataset. ###
-### To identify key factors (social, economic, and health indicators) that affect happiness scores. ###
+### To analyze the World Happiness Report dataset. 
+
+ To identify key factors (social, economic, and health indicators) that affect happiness scores. ###
 ### To visualize trends and patterns across different countries and years. ###
 ### To gain insights through data cleaning, preprocessing, visualization, and statistical analysis. ###
 
