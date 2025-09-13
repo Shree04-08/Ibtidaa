@@ -62,7 +62,7 @@ This project was developed as part of the Ibtidaa Internship (AICTE Initiative).
 
 # How to Run #
 ## 1️⃣ Clone the Repository
-git clone https://github.com/your-username/World-Happiness-Index-Analysis.git
+git clone https://github.com//Shree04-08/Ibtidaa/World-Happiness-Index-Analysis.git
 
 ## 2️⃣ Install Dependencies
 pip install -r requirements.txt
