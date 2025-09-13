@@ -15,33 +15,50 @@ This project was developed as part of the Ibtidaa Internship (AICTE Initiative).
  To gain insights through data cleaning, preprocessing, visualization, and statistical analysis. 
 
 # Dataset:
-### The dataset used is based on the World Happiness Index, which includes factors like:###
-### Happiness Score ###
-### GDP per Capita ###
-### Social Support ###
-### Healthy Life Expectancy ###
-### Freedom to Make Life Choices ###
-### Generosity ###
-### Perceptions of Corruption ###
+ The dataset used is based on the World Happiness Index, which includes factors like:
+
+ Happiness Score 
+
+ GDP per Capita 
+
+ Social Support 
+
+ Healthy Life Expectancy 
+
+ Freedom to Make Life Choices 
+
+ Generosity 
+
+ Perceptions of Corruption 
 
 # Features of the Project:
-### Performed Exploratory Data Analysis (EDA) using Python.###
-### Created visualizations to compare happiness scores across regions. ###
-### Identified correlations between different features and overall happiness.###
-### Built an interactive Streamlit dashboard for visual exploration of the dataset. ###
+ Performed Exploratory Data Analysis (EDA) using Python.
+
+ Created visualizations to compare happiness scores across regions. 
+
+ Identified correlations between different features and overall happiness.
+
+ Built an interactive Streamlit dashboard for visual exploration of the dataset. 
 
 # Tools & Technologies:
-### Python ###
-### Pandas, NumPy – Data preprocessing ###
-### Matplotlib, Seaborn – Data visualization ###
-### Streamlit – Interactive web dashboard ###
-### Jupyter Notebook – Code execution and analysis ###
+ Python 
+
+ Pandas, NumPy – Data preprocessing 
+
+ Matplotlib, Seaborn – Data visualization 
+
+ Streamlit – Interactive web dashboard 
+
+ Jupyter Notebook – Code execution and analysis 
 
 # World-Happiness-Index-Analysis/
-### │── notebook/        → Jupyter Notebook (data analysis, visualizations) ###
-### │── streamlit_app/   → Streamlit app files (app.py, requirements.txt) ###
-### │── report/          → Project report (PDF) ###
-### │── README.md        → Project description ###
+ │── notebook/        → Jupyter Notebook (data analysis, visualizations) 
+
+ │── streamlit_app/   → Streamlit app files (app.py, requirements.txt) 
+
+ │── report/          → Project report (PDF) 
+
+ │── README.md        → Project description 
 
 # How to Run #
 ## 1️⃣ Clone the Repository
