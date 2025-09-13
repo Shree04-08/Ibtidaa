@@ -63,6 +63,9 @@ This project was developed as part of the Ibtidaa Internship (AICTE Initiative).
  # Report google drive link
  (https://drive.google.com/file/d/1ExSpJhBeH8wVYLx0D4wsKdKTqpgLHiSc/view?usp=sharing)
 
+ # Screenshot proof
+ https://drive.google.com/file/d/16Pqfmq8ZbOFVS4ruLdVsPwjrf2g5_3l-/view?usp=sharing
+
 # How to Run #
 ## 1️⃣ Clone the Repository
 git clone https://github.com/Shree04-08/Ibtidaa
