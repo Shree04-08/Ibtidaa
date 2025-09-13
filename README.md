@@ -22,7 +22,7 @@ Generosity
 Perceptions of Corruption
 
 # Features of the Project:
-Performed Exploratory Data Analysis (EDA) using Python.
+## Performed Exploratory Data Analysis (EDA) using Python.
 Created visualizations to compare happiness scores across regions.
 Identified correlations between different features and overall happiness.
 Built an interactive Streamlit dashboard for visual exploration of the dataset.
