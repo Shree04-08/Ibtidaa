@@ -73,11 +73,6 @@ streamlit run streamlit_app/app.py
 # Streamlit demo video
 https://drive.google.com/file/d/1IwzwdAiVvbBfDt_GQfpXrpjhZwOX0dcw/view?usp=sharing
 
-# 📜 Internship Info
-
-This project was submitted under the Ibtidaa Internship Program powered by AICTE.
-It demonstrates how data analytics can provide meaningful insights into global well-being and happiness trends.
-
 
 
 
